@@ -1,3 +1,3 @@
-# Task_2-image_map
+# imageMap_Example
 
-https://sathishkumar1312.github.io/Task_2-image_map/
+https://sathishkumar1312.github.io/imageMap_Example/
